@@ -1,0 +1,86 @@
+#cabeçalho {
+    background-color: rgb(28, 76, 113);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: end;
+    border-radius: 5px;
+    padding: 83px;
+    display: inline-flexbox;
+
+}
+
+body {
+    background-color: aquamarine;
+    display: inline-flexbox;
+}
+
+h1.tituloPagina {
+    background-color: azure;
+    font-size: 150%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+
+
+}
+
+a.cabeçalho {
+    border-radius: 10px;
+   
+    font-size: 17px;
+    text-align: justify;
+    padding: 10px;
+    color: rgb(241, 232, 232);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    
+
+
+}
+
+h2.CursoPython {
+    color: brown;
+}
+
+section.CursoPython {
+    background-color: aliceblue;
+    text-align: center;
+    border-radius: 1%;
+
+}
+
+img.CursoPython {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+}
+
+p.CursoPython {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.suporti {
+    color: white;
+    text-align: left;
+    padding: 10px;
+    font-size: 40px;
+}
+    a.ctt{
+        color: beige;
+        font-size:20px ;
+        
+    }
+    div.section{
+        background-color: rgb(42, 108, 165);
+        padding: 1%;
+        border-radius: 10px;
+        
+    }
+    a.cabeçalho:hover{
+        background-color: aliceblue;
+        color: black;
+    }
+    a.ctt:hover{
+        color: black;
+        
+    }
+    
+    
